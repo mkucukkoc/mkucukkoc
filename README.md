@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mustafa kucukkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa kucukkoc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mustafa-k%C3%BC%C3%A7%C3%BCkko%C3%A7-596009203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa kucukkoc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
